@@ -108,6 +108,18 @@ Automated tests improve your productivity and enable you to gain and sustain dev
 
 ---?image=assets/flowChart.png
 
+---?image=assets/effort.png
+
+---?image=assets/roiGood.png
+---?image=assets/roiBad.png
+
+###
+
+
+
+
+
+
 ```scala
 ]​):
 ```
