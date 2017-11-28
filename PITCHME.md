@@ -43,13 +43,41 @@ Note:
 Blindly trying to tip the ball of green down every path like puzzle IMAGE
 
 
+---
+
+![Video](https://www.youtube.com/watch?v=saCaZ3KvYgY)
+
 ---?image=assets/rabbitHole.jpg
 
 Note:
 
 Ending up down a rabbit hole
 
+---
+##What was I really testing?
 
+
+- it does what it currently does.  |
+- In the way that it does it now.  |
+- you'd better not touch anything now or the test will fail. |
+- Every line of coverage is weighted equally |
+
+---
+## What does coverage actually tell us?
+
+- Coverage tracks which lines of code are *executed* by tests.
+
+
+Note:
+
+you can write a happy path test which does no assertions and still get high coverage
+
+Even with branch coverage (which tells you if you took both paths of an "if" statement). you still won't know if you've covered all possibilities - what if x is zero? or if x == y and it's not in an if statement. do you care?
+
+Attempts to improve this -
+
+---
+### Mutation coverage - messes with a line of code
 
 ```scala
 ]​):
