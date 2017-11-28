@@ -78,6 +78,25 @@ Attempts to improve this -
 
 ---
 ### Mutation coverage - messes with a line of code
+- pitest
+- jester
+
+---
+### What are we trying to achieve ?
+
+- is coverage a sensible (sole) measure of how well we're doing it?
+---
+
+### Goals
+
+Automated tests improve your productivity and enable you to gain and sustain development speed.
+
+* Tests are meant to help us be more productive
+* sustained over a long term
+* while maintaining high quality
+* They can also be a design tool
+
+---?image=assets/flowChart.png
 
 ```scala
 ]​):
