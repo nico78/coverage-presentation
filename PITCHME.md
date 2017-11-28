@@ -1,4 +1,4 @@
-## Functional Programming in Scala
+## The Dangers of
 ### Chapter 8 - Property-Based Testing
 
 ---
