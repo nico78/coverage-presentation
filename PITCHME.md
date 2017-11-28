@@ -3,7 +3,6 @@
 
 ---
 
-### Bit of a rant
 
 ---?image=assets/warning-opinions-ahead.png
 
