@@ -1,22 +1,16 @@
-## The Dangers of
-### Chapter 8 - Property-Based Testing
+## The Dangers of Optimising for Coverage
+### It's just one metric
 
 ---
 
-### Property-Based Testing - RECAP
+### Bit of a rant
 
-![Press Down Key](assets/down-arrow.png)
-
-+++
-- Technique for testing **laws** or _invariants_ about the behaviour of your code |
-- Decoupling specification of program behaviour from creation of test cases |
-+++
-- The programmer focuses on specifying domain, behaviour and high-level constraints |
-- The framework generates test cases |
+---?image=assets/warning-opinions-ahead.png
 
 Note:
-The framework then automatically generates test cases that satisfy these constraints, and
-runs tests to ensure that programs behave as specified
+
+Bit of a rant which might seem like a straw man argument, some of it obvious but it led me to think about things which I hope are enlightening
+
 
 +++
 ```scala
