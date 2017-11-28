@@ -102,6 +102,10 @@ Automated tests improve your productivity and enable you to gain and sustain dev
 * while maintaining high quality
 * They can also be a design tool
 
+---?image=assets/xUnit.gif
+
+---?image=assets/effectiveUnitTests.jpg
+
 ---?image=assets/flowChart.png
 
 ```scala
