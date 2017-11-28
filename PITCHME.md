@@ -2,6 +2,15 @@
 ### It's just one metric
 
 ---
+### Tips!
+
+- Press `F` to go fullscreen!
+
+---?image=assets/warning-opinions-ahead.png
+
+Custom size: not specified
+
+Image size defaults to 100% 100%
 
 
 ---?image=assets/warning-opinions-ahead.png
