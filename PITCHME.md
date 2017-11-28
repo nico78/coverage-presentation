@@ -8,12 +8,8 @@
 
 ---?image=assets/warning-opinions-ahead.png
 
-Custom size: not specified
-
-Image size defaults to 100% 100%
 
 
----?image=assets/warning-opinions-ahead.png
 
 Note:
 
