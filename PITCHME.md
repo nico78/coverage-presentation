@@ -8,25 +8,28 @@
 
 ---?image=assets/warning-opinions-ahead.png
 
-
-
-
 Note:
 
 Bit of a rant which might seem like a straw man argument, some of it obvious but it led me to think about things which I hope are enlightening
 
 
 +++
-```scala
-val intList = Gen.listOf(Gen.choose(0,100))
-val prop =
- forAll(intList)(ns => ns.reverse.reverse == ns) &&
- forAll(intList)(ns => ns.headOption == ns.reverse.lastOption)
-```
-@[1](A **generator** of lists of integers between 0 and 100.)
-@[2](A **property** that specifies the **behavior** of the List.reverse method.)
-@[3](Check that reversing a list twice gives back the original list)
-@[4](Check that the first element becomes the last element after reversal.)
+
+---?image=assets/callbackHell.jpg
+
+
+Note:
+Some years back as a junior java developer  I was given a mandate -let's try this junit thing and try to get some components under test
+
+
+
++++
+
+---?image=assets/flossing.jpg
+
+Note:
+Testing - don't do it much, dimly aware that something I should be doing. like flossing. and important to be thorough.
+
 +++
 
 ### current definitions
