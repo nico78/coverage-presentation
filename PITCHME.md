@@ -54,7 +54,7 @@ Note:
 Ending up down a rabbit hole
 
 ---
-##What was I really testing?
+## What was I really testing?
 
 
 - it does what it currently does.  |
@@ -85,6 +85,12 @@ Attempts to improve this -
 ### What are we trying to achieve ?
 
 - is coverage a sensible (sole) measure of how well we're doing it?
+
+Note:
+Metric fallacy - because we have a number, must be good
+The cost of simplifying complexity comes at the cost of losing sight of the real end goal, and ends in a suboptimal result.
+
+Organizations love metrics because it makes setting targets easier, and discourages people from questioning the goal behind the target
 ---
 
 ### Goals
